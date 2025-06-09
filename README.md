@@ -1,6 +1,4 @@
-Here's a clean and professional **`README.md`** file in **English** for your GitHub repository based on the PyTorch classification code using synthetic data:
 
----
 
 # 🧠 Binary Classification with PyTorch
 
